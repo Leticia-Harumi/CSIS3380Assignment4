@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "email": "bsimanek1@illinois.edu",
+      "username": "mclemensen1"
+    },
+    {
+      "id": 3,
+      "email": "rforseith2@taobao.com",
+      "username": "dmundy2"
+    },
+    {
+      "id": 4,
+      "email": "tnovis3@ovh.net",
+      "username": "adoddridge3"
+    },
+    {
+      "id": 5,
+      "email": "grichly4@vkontakte.ru",
+      "username": "agyse4"
+    },
+    {
+      "username": "updatingUserName",
+      "id": 5088,
+      "email": "updateUser@gmail.com"
+    }
+  ]
+}
